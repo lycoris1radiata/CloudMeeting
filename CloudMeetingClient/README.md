@@ -13,5 +13,3 @@
 ## 主界面
 
 创建会议，加入会议，文字、视频聊天
-
-![image](https://github.com/lycoris1radiata/ChatRoom/assets/132632911/04dfd6e8-6725-43b7-8638-00944507cf2e)
